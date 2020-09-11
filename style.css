@@ -11,11 +11,9 @@ html {
   font-size: 0.9rem;
 }
 
-/**,
-*:before,
-*:after {
+*:before, *:after {
   box-sizing: inherit;
-}*/
+}
 
 .list {
   padding: 1vw;
